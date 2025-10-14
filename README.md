@@ -80,11 +80,10 @@ The analytical workflow for this project followed a structured, end-to-end data 
   - Analytical problem-solving  
   - Business storytelling through visualization  
 
-
 ---
 
 ## 📊 Interact with the dashboard and analytical process here  
-- **View here:** [Dashboard on Google Drive →] (https://docs.google.com/spreadsheets/d/1GYjLaaiUlCuOCVcnkCRJo-_CUWw4cRNO/edit?usp=sharing&ouid=112288732127302670660&rtpof=true&sd=true)
+- **View here:** [Dashboard on Google Drive →](https://docs.google.com/spreadsheets/d/1GYjLaaiUlCuOCVcnkCRJo-_CUWw4cRNO/edit?usp=sharing&ouid=112288732127302670660&rtpof=true&sd=true)
   
 ---
 
