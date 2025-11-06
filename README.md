@@ -8,7 +8,7 @@
 ## Project Overview  
 
 This project presents an in-depth **data analytics study** of the **Premier League 2024/2025 season**, focusing on **team performance**, **player efficiency**, and **salary structure** using **Microsoft Excel**.  
-The goal is to translate complex data into **actionable insights** that help decision-makers such as club executives, analysts, and recruiters make informed strategic choices.
+The goal is to translate complex data into **actionable insights** that help decision-makers such as club executives, analysts, scouts and even recruiters make informed strategic choices.
 
 The analysis is structured across four dashboards:  
 
