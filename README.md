@@ -83,7 +83,7 @@ Without this kind of insight, clubs risk **overspending, underperforming, and mi
 ## Access the Dashboard  
 
 **View the full dashboard on Google Drive:**
-[Premier League 2024/2025 Dashboard](https://docs.google.com/spreadsheets/d/1GYjLaaiUlCuOCVcnkCRJo-_CUWw4cRNO/edit?usp=sharing&ouid=112288732127302670660&rtpof=true&sd=true)
+[Premier League 2024/2025 Dashboard](https://drive.google.com/drive/folders/1pNPQSdgbHx-erh2usSnSYAyUC2ZVQ-ws?usp=drive_link)
 
 ---
 
